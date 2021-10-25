@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 🔭 Done end-to-end deployment for - Thyroid Disease Detection Project using Machine Learning
-- 📫 Read my blogs: [Priyanka's Blog](https://gupta-priyanka06.medium.com)
+- 📝 Read my blogs: [Priyanka's Blog](https://gupta-priyanka06.medium.com)
 - 💬 Ask me about anything, happy to help!!
 - ⚡ I love to explore and learn about new things.
 
