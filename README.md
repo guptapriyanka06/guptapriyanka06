@@ -2,6 +2,8 @@
 <h1> 𝐇𝐞𝐥𝐥𝐨 World!!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 <h2> I am Priyanka Gupta, a software engineer turned Data Scientist </h2>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=guptapriyanka06.guptapriyanka06)
+
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 🔭 Done end-to-end deployment for - Thyroid Disease Detection Project using Machine Learning
@@ -30,10 +32,18 @@ Talk to me about:
 - Back-end development ► **SQL DB, MongoDB**
 - Domain  ► **Healthcare, Banking**
 
-![Priyanka's Github Stats](https://github-readme-stats.vercel.app/api?username=guptapriyanka06&hide=["issues"]&theme=dark&show_icons=true)
+## :trophy: My Github Stats:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=guptapriyanka06.guptapriyanka06)
-
-
-
+<!--
+![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=guptapriyanka06&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=guptapriyanka06&hide=php&theme=tokyonight)
+-->
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=guptapriyanka06&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=guptapriyanka06&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=guptapriyanka06&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptapriyanka06&hide=php&theme=tokyonight" />
+</a>
+</div>
 
