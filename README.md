@@ -1,4 +1,5 @@
- [![Header](https://raw.githubusercontent.com/guptapriyanka06/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
+![Header](https://github.com/guptapriyanka06/guptapriyanka06/blob/main/header2.PNG)
 <h1> 𝐇𝐞𝐥𝐥𝐨 World!!   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1> 
 <h2> I am Priyanka Gupta, a software engineer turned Data Scientist </h2>
 
