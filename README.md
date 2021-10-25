@@ -25,9 +25,13 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guptapriyanka06)](https://github.com/anuraghazra/github-readme-stats)
+<p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guptapriyanka06&show_icons=true&locale=en&layout=compact" alt="guptapriyanka06" /></p>
 
 
-![Priyanka's GitHub stats](https://github-readme-stats.vercel.app/api?username=guptapriyanka06&theme=dark&show_icons=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guptapriyanka06&theme=dark&show_icons=truelocale=en" alt="guptapriyanka06" /></p>
+
+
+
+
 
 
